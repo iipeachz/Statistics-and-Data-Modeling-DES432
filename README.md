@@ -15,7 +15,7 @@ python -m pip install pandas matplotlib seaborn
 📊 ข้อมูลที่ใช้ (Dataset)
 คุณสามารถดาวน์โหลดข้อมูลในรูปแบบไฟล์ .csv ได้จากลิงก์ด้านล่างนี้:
 
-Source: CDC - Provisional COVID-19 death counts and rates
+Source: https://data.cdc.gov/National-Center-for-Health-Statistics/Provisional-COVID-19-death-counts-and-rates-by-mon/yrur-wghw/about_data
 
 ไฟล์ข้อมูล: เมื่อดาวน์โหลดแล้ว ให้เปลี่ยนชื่อไฟล์หรือตรวจสอบชื่อไฟล์ให้ตรงกับที่ระบุในโค้ด (เช่น Provisional_COVID-19_death_counts_and_rates_by_month...csv)
 
